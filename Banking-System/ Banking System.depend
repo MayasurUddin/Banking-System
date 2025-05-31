@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1748703629 source:d:\mr.m\banking system\ banking system\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
